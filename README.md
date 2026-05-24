@@ -4,24 +4,16 @@ SpendLens helps startup founders and engineering managers instantly find out if 
 
 Built as a lead-generation tool for [Credex](https://credex.rocks), which sells discounted AI infrastructure credits.
 
-**Live URL:** https://spendlens.vercel.app
+**Live URL:**https://spend-lens-sage.vercel.app/
 
----
 
-## Screenshots
-
-> _Add 3+ screenshots here or a Loom/YouTube link to a 30-second demo_
->
-> Suggested: (1) landing page, (2) filled form, (3) audit results with savings card
-
----
 
 ## Quick Start
 
 ### Prerequisites
 - Node.js 20+
 - A Supabase project (free tier works)
-- An Anthropic API key (for AI summaries)
+- A Groq API key (for AI summaries)
 - A Resend account (for transactional email)
 
 ### Install & run locally
