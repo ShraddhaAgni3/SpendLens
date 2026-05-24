@@ -19,7 +19,7 @@ Built as a lead-generation tool for [Credex](https://credex.rocks), which sells 
 ### Install & run locally
 
 ```bash
-git clone https://github.com/yourusername/spendlens
+git clone https://github.com/ShraddhaAgni3/SpendLens
 cd spendlens
 npm install
 cp .env.example .env.local
